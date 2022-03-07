@@ -2,8 +2,6 @@
 
 This is a demo Drupal site which was built in the [Drupal Live Site Build (Using Bootstrap)](https://www.youtube.com/playlist?list=PLL73GOh1BF-l3EoSLA9wb0888n7ybc4ER) video series.
 
-**WARNING: THIS SITE SHOULD NOT BE USED IN PRODUCTION. USE AT YOUR OWN RISK. UPGRADES WILL NOT BE SUPPORTED.**
-
 ## Installation
 
 This site can be set up in two ways: using [Lando](https://docs.lando.dev/basics/installation.html) or custom LAMP/MAMP/XAMPP.
